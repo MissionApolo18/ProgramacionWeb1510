@@ -1,12 +1,11 @@
 header {
     font-family: fantasy;
     font-size: 40px;
-    color: #fab71e;
+    color: #ae7f13;
     background-image: url("Recursos/UA\ fondo\ a.jpg");
     background-size: cover;
     text-align: center;
     word-spacing: normal;
-
    } 
 section {
     background-color: #149bdd;
@@ -16,6 +15,7 @@ nav {
     background-color: #0a75ab;
     font-family: Georgia, 'Times New Roman', Times, serif;
     height: fit-content;
+    text-align: center;
     background-size: cover;
 }
 body {
@@ -27,4 +27,13 @@ body {
     height: fit-content;
     background-size: cover;
     text-align: justify;
+}
+#Profesores {
+    font-family: fantasy;
+    font-size: 35px;
+    color: #ae7f13;
+    background-image: url("Recursos/UA\ fondo\ a.jpg");
+    background-size: cover;
+    text-align: center;
+    word-spacing: normal;
 }
