@@ -1,3 +1,6 @@
+<?php
+    session_start();
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -34,7 +37,7 @@
                     <button>Entrar</button>
                 </form>
                 <!--Register-->
-                <form action="" class="formulario__register">
+                <form action="registro_usuario.php" class="formulario__register">
                     <h2>Regístrarse</h2>
                     <input type="text" placeholder="Nombre completo" name = "nombre_completo">
                     <input type="text" placeholder="Correo Electronico" name = "correo">
