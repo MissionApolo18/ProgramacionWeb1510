@@ -6,7 +6,7 @@
     <meta name="description" content="Página de prueba">
     <meta name="author" content="Atenea Gutiérrez / Tony Gutiérrez / MissionApolo18">
     <link rel="icon" href="Recursos/UA_logo.png" type="image/png" sizes="18x18">
-    <link rel="stylesheet" href="Estilos.css">
+    <link rel="stylesheet" href="Recursos/Estilos.css">
     <title>UA Pagina Inicial</title>
 </head>
 <body>
@@ -45,6 +45,6 @@
             </div>
         </div>
     </main>
-    <script src="Operaciones.js"></script>
+    <script src="Operaciones/Operaciones.js"></script>
 </body>
 </html>
