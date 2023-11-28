@@ -1,2 +1,2 @@
 # ProgramacionWeb1510
-Trabajos realizados en clase
+Proyecto final que fue realizado como parte de los trabajos en clase
